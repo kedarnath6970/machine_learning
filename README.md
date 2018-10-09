@@ -1,6 +1,6 @@
 # machine_learning projects
 ## Boston housing price prediction using desicsion tree.
-## Steps
+## Anaysis steps
 1. Explore data and observe features
 2. Explore goodness of fit using coefficient of determination, R^2(``r2_score`` from ``sklearn.metrics``)
 3. Divide data set into training and test set using ``train_test_split`` from ``sklearn.cross_validation``.
