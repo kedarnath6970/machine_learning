@@ -1,4 +1,4 @@
-# Machine_learning projects
+# Machine learning projects
 ## Boston housing price prediction using desicsion tree.
 ## Analysis steps
 1. Explore data and observe features
