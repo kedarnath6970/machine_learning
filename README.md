@@ -1,5 +1,5 @@
 # Machine learning projects
-1. Boston housing price prediction using desicsion tree.
+1. Boston housing price prediction using decision tree.
 - Analysis steps:
     1. Explore data and observe features
     2. Explore goodness of fit using coefficient of determination, R^2(``r2_score`` from ``sklearn.metrics``)
